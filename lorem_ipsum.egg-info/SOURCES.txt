@@ -1,0 +1,13 @@
+README.txt
+setup.py
+lorem_ipsum/__init__.py
+lorem_ipsum/input.py
+lorem_ipsum/lorem_ipsum.py
+lorem_ipsum/model.py
+lorem_ipsum/search_word.py
+lorem_ipsum.egg-info/PKG-INFO
+lorem_ipsum.egg-info/SOURCES.txt
+lorem_ipsum.egg-info/dependency_links.txt
+lorem_ipsum.egg-info/top_level.txt
+lorem_ipsum/tests/__init__.py
+lorem_ipsum/tests/test_loremipsum.py
