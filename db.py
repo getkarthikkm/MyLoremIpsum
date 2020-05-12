@@ -96,3 +96,7 @@ if __name__ == '__main__':
     print(db.connection)
     print(db.connection.closed)
     print(db.connection.info)
+
+
+# To execute
+# python db.py "Select * from film"
